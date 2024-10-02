@@ -1,0 +1,25 @@
+Task #1: define single and
+    multi-dimensional NumPy arrays
+Task #2: leverage NumPy built-in methods
+    and functions
+Task #3: perform mathematical operations in
+    NumPy
+Task #4: perform arrays slicing and
+    indexing
+Task #5: perform elements selection
+    (conditional)
+Task #6: understand pandas fundamentals
+Task #7: pandas with csv and html data
+Task #8: pandas operations
+Task #9: pandas with functions
+Task #10: perform sorting and ordering in
+    pandas
+Task #11: perform concatenating and merging
+    with pandas
+Task #12: project and concluding remarks
+
+Notes:
+np.random.rand() -> inside the paranthesis specify the amount of random numbers you want
+ 
+to refer to numpy notes go here-> https://numpy.org/doc/stable/user/quickstart.html
+to create a matrix of random numbers: np.random.randint(1,20,(4,4)) //creates one with 4x4 matrix
